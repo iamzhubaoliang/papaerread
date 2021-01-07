@@ -5,4 +5,4 @@
 3. Layer Normalization https://arxiv.org/abs/1607.06450
 4. Neural Machine Translation By Jointly Learning To Align and Translate (Attention机制):https://blog.csdn.net/hackerzer/article/details/73196290
 5. 贝叶斯公式 https://blog.csdn.net/jiangjiang_jian/article/details/81346797
-RNN　https://zybuluo.com/hanbingtao/note/541458
+６．RNN　https://zybuluo.com/hanbingtao/note/541458
